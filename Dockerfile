@@ -1,5 +1,3 @@
-# DockerFile
-
 FROM ubuntu:14.04
 MAINTAINER CMG "siryuon@khu.ac.kr"
 RUN apt-get update
